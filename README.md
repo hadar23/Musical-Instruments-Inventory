@@ -11,4 +11,4 @@ How to use (Eclipse):
 
 You will see all the information in the console, and you will be able to manage the inventory
 
-(Second java project, semester 2, software engineering bachelor degree)
+(Second Java project, semester 2, software engineering bachelor degree)
